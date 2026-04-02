@@ -17,7 +17,7 @@ The main features of the framework:
 * Logic Gate Solvers: in main.c you will find an implementation where the trained neural network learns to solve the OR, AND and XOR logic gates.
 
 Building and Running (Linux):
-(`gcc -o main main.c -ml`)
+you can use build.sh file or (`gcc -o main main.c -ml`)
 We use math.h, therefore we have to link it with: -lm.
 
 
